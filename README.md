@@ -5,8 +5,8 @@ My name is Fuad Maulana and I'm from Indonesia. I love Data Science and Artifici
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/8443dade17e7885edab399970c23831891004275/Images/face-expression-recognition.jpg"> **[Face Expression Recognition](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+In this project I created a tensorflow model architecture to predict facial expressions from facial image. The expression consists is angry, fear, neutral, happy, surprise, sad, and disgust. 
 
 #
