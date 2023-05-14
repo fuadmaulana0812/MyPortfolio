@@ -11,7 +11,7 @@ In this project I created a tensorflow model architecture to predict facial expr
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/d3ae51d89df6a6ce5852d69f8b004cdf1f50c5c0/Images/credit_scoring.png"> **[Credit Loan Prediction](https://github.com/fuadmaulana0812/MyPortfolio/tree/a47fcf561adbf09acba034b32d5c0903789cccf7/Projects/Credit%20Loan%20Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/687c64c91eb81bef18d246a9e8135e2eccfd768c/Images/credit_loan.jpg"> **[Credit Loan Prediction](https://github.com/fuadmaulana0812/MyPortfolio/tree/a47fcf561adbf09acba034b32d5c0903789cccf7/Projects/Credit%20Loan%20Prediction)**
 
 In this project, I created several models to predict whether someone is eligible for a loan or not. Predictions in determining the eligibility of a person to be given a loan based on a person's ability and history in paying off his loan.  Several models are used such as Decision Tree, Random Forest, Naive Bayes, K-Nearest Neighbors, and Support Vector Machine. 
 
