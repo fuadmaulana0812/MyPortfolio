@@ -10,3 +10,9 @@ My name is Fuad Maulana and I'm from Indonesia. I love Data Science and Artifici
 In this project I created a tensorflow model architecture to predict facial expressions from facial image. The expression consists is angry, fear, neutral, happy, surprise, sad, and disgust. 
 
 #
+
+<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/8443dade17e7885edab399970c23831891004275/Images/face-expression-recognition.jpg"> **[Credit Scoring](https://github.com/fuadmaulana0812/MyPortfolio/tree/ba0e26400f4938d7e1eff3b244afc63107e64293/Projects/Credit%20Scoring)**
+
+In this project I created a tensorflow model architecture to predict facial expressions from facial image. The expression consists is angry, fear, neutral, happy, surprise, sad, and disgust. 
+
+#
