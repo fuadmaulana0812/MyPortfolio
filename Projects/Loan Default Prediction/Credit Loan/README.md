@@ -1,7 +1,7 @@
 # Credit Loan Prediction
 
 ### Objective
-
+Objective of the project to predict whether someone is eligible for a loan or not based on a person's ability and history in paying off his loan.
 
 ### Dataset
 This is the description of all columns from the given dataset.
