@@ -4,7 +4,7 @@
 Objective of the project to predict whether someone is eligible for a loan or not. A person is said to be a good borrower based on a person's ability and history in repaying his loan. 
 
 ### Dataset
-This is the description of all columns from the given dataset.
+This is the description of all columns from [Credit Loan](https://docs.google.com/uc?export=download&confirm=&id=1qfKeXVzAFvvbgjPYrUOIBBYk0WrQ2bCf) dataset.
 | Variable Name | Description |
 | --- | --- |
 | TARGET | (Target = 1 (Defaulters), Target = 0 (Good Loans) |
@@ -45,8 +45,17 @@ At this stage I did several treatments such as handling missing values, imbalanc
 
 The approach taken is to replace empty values with the average in each column. The goal is to maintain the distribution in each column and avoid adding variations to the data. Second, handling missing values. The target of the data consists of 2500 defaulter and 500 good borrowers. Good borrowers have little data which can result in the model not being able to accurately predict good borrowers.
 
-<img align="center" width="500" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/173ca168b0c34f32a8e0fa3a4562e44ec39f7a68/Projects/Loan%20Default%20Prediction/Credit%20Loan/Images/imbalanced_data.png"> 
+<img align="center" width="500" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/1ab38d54dd055b6efc312ae2c2f918b74507f5e4/Projects/Loan%20Default%20Prediction/Credit%20Loan/Images/imbalanced_data.png"> 
 
-The metric used is ROC AUC, this is because ROC AUC is very sensitive to imbalanced data. The highest ROC AUC was obtained when oversampling was 0.5 and under sampling was 0.7. The result of resampling is 1785 defaulters and 1250 good borrowers. Third, split the data into train and test with a ratio of 8:2. Then standardize the data with the aim of reducing the range that is too far for each observation.
+The metric used is ROC AUC, this is because ROC AUC is very sensitive to imbalanced data. The highest ROC AUC was obtained when oversampling was 0.4 and under sampling was 0.6. The result of resampling is 1666 defaulters and 1000 good borrowers. Third, split the data into train and test with a ratio of 8:2. Then standardize the data with the aim of reducing the range that is too far for each observation.
 
 ### Modelling
+I made 5 models for this project, namely Decision Tree, Random Forest, Extra Gradient Boosting, K-Nearest Neighbors, and Support Vector Machine. The following is the evaluation score of the 5 models
+
+<img align="center" width="700" height="400" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/1ab38d54dd055b6efc312ae2c2f918b74507f5e4/Projects/Loan%20Default%20Prediction/Credit%20Loan/Images/model_compare.png">
+
+Random Forest has the highest score for all metrics, so the best model is Random Forest. After that, look for the best hyperparameter to optimize the existing Random Forest model. The goal is to get a better model. I use grid search to find the best parameters.
+
+<img align="center" width="600" height="400" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/1ab38d54dd055b6efc312ae2c2f918b74507f5e4/Projects/Loan%20Default%20Prediction/Credit%20Loan/Images/optimi_compare.png">
+
+The original model has a score that is superior to the optimization model. then the final model taken is Random Forest (Original). Then I made predictions on the test data and got a score of 0.83. This model is good enough to predict whether someone is a good borrower or not.
