@@ -43,7 +43,7 @@ At this stage I did several treatments such as handling missing values, imbalanc
 
 <img align="center" width="600" height="300" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/173ca168b0c34f32a8e0fa3a4562e44ec39f7a68/Projects/Loan%20Default%20Prediction/Credit%20Loan/Images/handling_miss_value.png"> 
 
-The approach taken is to replace empty values with the average in each column. The goal is to maintain the distribution in each column and avoid adding variations to the data. Second, handling missing values. The target of the data consists of 2500 defaulter and 500 good borrowers. Good borrowers have little data which can result in the model not being able to accurately predict good borrowers.
+The approach taken is to replace empty values with the average in each column. The goal is to maintain the distribution in each column and avoid adding variations to the data. Second, handling imbalanced data. The target of the data consists of 2500 defaulter and 500 good borrowers. Good borrowers have little data which can result in the model not being able to accurately predict good borrowers.
 
 <img align="center" width="500" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/1ab38d54dd055b6efc312ae2c2f918b74507f5e4/Projects/Loan%20Default%20Prediction/Credit%20Loan/Images/imbalanced_data.png"> 
 
