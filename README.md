@@ -1,5 +1,5 @@
 # Data Science and Artificial Intelligence Portfolio - Fuad Maulana
-My name is Fuad Maulana and I'm from Indonesia. I love Data Science and Artificial Intelligence. I have experience about Data Scraping, Data Cleaning, Data Analysis, Data Visualization, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series, and others. I'm still learn more and improve my skill in Data and AI field. This portfolio is compilation of all the Data Science and Artificial Intelligence projects I have done for academic, self learning, and hobby purposes.
+My name is Fuad Maulana and I'm from Indonesia. I love Data Science and Artificial Intelligence. I have experience about Data Scraping, Data Cleaning, Data Analysis, Data Visualization, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series, ChatGPT, and others. I'm still learn more and improve my skill in Data and AI field. This portfolio is compilation of all the Data Science and Artificial Intelligence projects I have done for academic, self learning, and hobby purposes.
 - **Email**: [fuadmaulana0812@gmail.com](fuadmaulana0812@gmail.com)
 - **LinkedIn**: [linkedin.com/fuad-maulana](https://www.linkedin.com/in/fuad-maulana)
 
