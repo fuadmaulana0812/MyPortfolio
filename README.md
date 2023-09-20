@@ -11,7 +11,7 @@ In this project I created a tensorflow model architecture to predict facial expr
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/687c64c91eb81bef18d246a9e8135e2eccfd768c/Images/credit_loan.jpg"> **[Loan Default Prediction](https://github.com/fuadmaulana0812/MyPortfolio/tree/76f76037f0ae0559fab32f388c9d254f3f78fc33/Projects/Loan%20Default%20Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/687c64c91eb81bef18d246a9e8135e2eccfd768c/Images/credit_loan.jpg"> **[Loan Default Prediction](https://github.com/fuadmaulana0812/MyPortfolio/tree/bdda3a20ef020c2b22260c6ebdffbda3bebb8697/Projects/Loan%20Default%20Prediction)**
 
 In this project I created several models to predict whether someone is eligible for a loan or not based on a person's ability and history in paying off his loan. I have 2 projects. In the first project using several models such as Decision Tree, Random Forest, Extra Gradient Boosting, K-Nearest Neighbors, and Support Vector Machine. While the second project uses Tensorflow model.
 
