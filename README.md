@@ -16,3 +16,7 @@ In this project I created a tensorflow model architecture to predict facial expr
 In this project I created several models to predict whether someone is eligible for a loan or not based on a person's ability and history in paying off his loan. I have 2 projects. In the first project using several models such as Decision Tree, Random Forest, Extra Gradient Boosting, K-Nearest Neighbors, and Support Vector Machine. While the second project uses Tensorflow model.
 
 #
+
+<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/b3b5e6335c6da9e4c880c30f06c2f9f607888fea/Images/chatbot.png"> **[Chatbot](https://github.com/fuadmaulana0812/MyPortfolio/tree/b3b5e6335c6da9e4c880c30f06c2f9f607888fea/Projects/Chatbot)**
+
+In this project I created chatbot 
