@@ -23,7 +23,7 @@ In this project I created a chatbot using langchain and streamlit framework. Thi
 
 # 
 
-<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/cac408f3bb3f7eb389aa7b77215cace2905f199b/Images/forecasting.png"> **[Time Series Forecasting](https://github.com/fuadmaulana0812/MyPortfolio/tree/840e04a312ad97405dfea1cb326b7349de5e743d/Projects/Time%20Series%20Forecasting)**
+<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/cac408f3bb3f7eb389aa7b77215cace2905f199b/Images/forecasting.png"> **[Time Series Forecasting](https://github.com/fuadmaulana0812/MyPortfolio/tree/749652e3b6acbefdd8fa843ffa1f8949aa0e528e/Projects/Time%20Series%20Forecasting)**
 
 in this project I made models for 2 different cases. First, the case of multiple time series. This case aims to predict many targets/products in the future. So the output issued is as many targets/products multiplied by the forecasting period. Second, the case of multivariate time series. This case aims to predict 1 target/product but is influenced by many variables.
 
