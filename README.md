@@ -21,7 +21,7 @@ In this project I created several models to predict whether someone is eligible 
 
 In this project I created a chatbot using langchain and streamlit framework. This chatbot uses documents (such as Pdf, Excel, Word) as input data which will later be studied as knowledge from this chatbot. I used the pretrained model from huggingface for embedding and llm. This chatbot can also save chat history so that the answers given can be more interactive.
 
-#
+# 
 
 <img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/cac408f3bb3f7eb389aa7b77215cace2905f199b/Images/forecasting.png"> **[Time Series Forecasting](https://github.com/fuadmaulana0812/MyPortfolio/tree/cac408f3bb3f7eb389aa7b77215cace2905f199b/Projects/Time%20Series%20Forecasting)**
 
