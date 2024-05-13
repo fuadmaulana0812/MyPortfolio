@@ -20,3 +20,9 @@ In this project I created several models to predict whether someone is eligible 
 <img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/b3b5e6335c6da9e4c880c30f06c2f9f607888fea/Images/chatbot.png"> **[Chatbot](https://github.com/fuadmaulana0812/MyPortfolio/tree/b3b5e6335c6da9e4c880c30f06c2f9f607888fea/Projects/Chatbot)**
 
 In this project I created chatbot 
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/cac408f3bb3f7eb389aa7b77215cace2905f199b/Images/forecasting.png"> **[Time Series Forecasting](https://github.com/fuadmaulana0812/MyPortfolio/tree/cac408f3bb3f7eb389aa7b77215cace2905f199b/Projects/Time%20Series%20Forecasting/Multiple%20Time%20Series)**
+
+In this project I created 
