@@ -33,6 +33,6 @@ An automated X (Twitter) monitoring and summarization tool that collects recent 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/e2b122929516dc9a2a0b783cc5f58c8051055b91/Images/customer_churn.jpg"> **[Tweet Summarizer](https://github.com/fuadmaulana0812/Customer-Intelligence)**
+<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/e2b122929516dc9a2a0b783cc5f58c8051055b91/Images/customer_churn.jpg"> **[Customer Analytics & Prediction Platform](https://github.com/fuadmaulana0812/Customer-Intelligence)**
 
 An end-to-end Customer Analytics & Prediction Platform built with Python, Pandas, Scikit-learn, XGBoost, FastAPI, and Streamlit. Performs exploratory data analysis, predicts customer churn, segments customers using K-Means clustering, and delivers interactive dashboards with actionable business insights.
