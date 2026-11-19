@@ -21,7 +21,7 @@ Two modeling approaches explore loan repayment outcomes using borrower capabilit
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/b3b5e6335c6da9e4c880c30f06c2f9f607888fea/Images/chatbot.png"> **[Chatbot](https://github.com/fuadmaulana0812/Document-Chatbot)**
+<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/b3b5e6335c6da9e4c880c30f06c2f9f607888fea/Images/chatbot.png"> **[Document Q&A Chatbot](https://github.com/fuadmaulana0812/Document-Chatbot)**
 
 A Streamlit and LangChain chatbot that uses uploaded PDF, Excel, and Word files as reference material. Hugging Face models provide embeddings and language model responses, and the app keeps chat history for follow-up questions.
 
