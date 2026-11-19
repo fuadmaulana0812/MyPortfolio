@@ -1,30 +1,46 @@
-# Data Science and Artificial Intelligence Portfolio - Fuad Maulana
-My name is Fuad Maulana and I'm from Indonesia. I love Data Science and Artificial Intelligence. I have experience about Data Scraping, Data Cleaning, Data Analysis, Data Visualization, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series, Chatbot, Large Language Model, Artificial Intelligence Agent and others. I'm still learn more and improve my skill in Data and AI field. This portfolio is compilation of all the Data Science and Artificial Intelligence projects I have done for academic, self learning, and hobby purposes.
-- **Email**: [fuadmaulana0812@gmail.com](fuadmaulana0812@gmail.com)
-- **LinkedIn**: [linkedin.com/fuad-maulana](https://www.linkedin.com/in/fuad-maulana)
+# Fuad Maulana | Data & AI Projects
 
-## Projects
+I'm Fuad, based in Indonesia. This repository is where I collect experiments and projects from coursework, independent study, and personal interests in data science and artificial intelligence. My work has included data collection and preparation, analysis and visualization, predictive modeling, computer vision, natural language processing, and language model applications. I'm continuing to build on these skills through new projects.
 
-<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/8443dade17e7885edab399970c23831891004275/Images/face-expression-recognition.jpg"> **[Face Expression Recognition](https://github.com/fuadmaulana0812/MyPortfolio/tree/76f76037f0ae0559fab32f388c9d254f3f78fc33/Projects/Face%20Expression%20Recognition)**
+For questions or collaboration:
 
-In this project I created a tensorflow model architecture to predict facial expressions from facial image. The expression consists is angry, fear, neutral, happy, surprise, sad, and disgust. The goal of this project is to detect facial emotion on image. This model can be used in several ways, one of which is to determine customer satisfaction through facial expressions in images.
+- Email: [fuadmaulana0812@gmail.com](mailto:fuadmaulana0812@gmail.com)
+- LinkedIn: [Fuad Maulana](https://www.linkedin.com/in/fuad-maulana)
 
-#
+## Selected work
 
-<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/687c64c91eb81bef18d246a9e8135e2eccfd768c/Images/credit_loan.jpg"> **[Loan Default Prediction](https://github.com/fuadmaulana0812/MyPortfolio/tree/bdda3a20ef020c2b22260c6ebdffbda3bebb8697/Projects/Loan%20Default%20Prediction)**
+### [Facial Expression Recognition](https://github.com/fuadmaulana0812/Face-Expression-Recognition)
 
-In this project I created several models to predict whether someone is eligible for a loan or not based on a person's ability and history in paying off his loan. I have 2 projects. In the first project using several models such as Decision Tree, Random Forest, Extra Gradient Boosting, K-Nearest Neighbors, and Support Vector Machine. While the second project uses Tensorflow model.
+An image classifier built with TensorFlow to recognize seven expressions: anger, fear, neutral, happiness, surprise, sadness, and disgust. One possible application explored in the project is using expressions in images as a signal for customer satisfaction.
 
-#
+![Facial expression recognition project](https://github.com/fuadmaulana0812/MyPortfolio/blob/8443dade17e7885edab399970c23831891004275/Images/face-expression-recognition.jpg)
 
-<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/b3b5e6335c6da9e4c880c30f06c2f9f607888fea/Images/chatbot.png"> **[Chatbot](https://github.com/fuadmaulana0812/MyPortfolio/tree/840e04a312ad97405dfea1cb326b7349de5e743d/Projects/Chatbot)**
+### [Loan Default Prediction](https://github.com/fuadmaulana0812/Loan-Default-Prediction)
 
-In this project I created a chatbot using langchain and streamlit framework. This chatbot uses documents (such as Pdf, Excel, Word) as input data which will later be studied as knowledge from this chatbot. I used the pretrained model from huggingface for embedding and llm. This chatbot can also save chat history so that the answers given can be more interactive.
+Two modeling approaches explore loan repayment outcomes using borrower capability and repayment history. The first compares Decision Tree, Random Forest, Extra Gradient Boosting, K-Nearest Neighbors, and Support Vector Machine models; the second uses a TensorFlow model.
 
-# 
+![Loan prediction project](https://github.com/fuadmaulana0812/MyPortfolio/blob/687c64c91eb81bef18d246a9e8135e2eccfd768c/Images/credit_loan.jpg)
 
-<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/cac408f3bb3f7eb389aa7b77215cace2905f199b/Images/forecasting.png"> **[Time Series Forecasting](https://github.com/fuadmaulana0812/MyPortfolio/tree/1d70f6bfbe5d5fcd1c6033fb359fcc13a143019c/Projects/Time%20Series%20Forecasting)**
+### [Document Q&A Chatbot](https://github.com/fuadmaulana0812/Document-Chatbot)
 
-in this project I made models for 2 different cases. First, the case of multiple time series. This case aims to predict many targets/products in the future. So the output issued is as many targets/products multiplied by the forecasting period. Second, the case of multivariate time series. This case aims to predict 1 target/product but is influenced by many variables.
+A Streamlit and LangChain chatbot that uses uploaded PDF, Excel, and Word files as reference material. Hugging Face models provide embeddings and language model responses, and the app keeps chat history for follow-up questions.
 
-# 
+![Document chatbot project](https://github.com/fuadmaulana0812/MyPortfolio/blob/b3b5e6335c6da9e4c880c30f06c2f9f607888fea/Images/chatbot.png)
+
+### [Time Series Forecasting]()
+
+This work covers two forecasting setups: predicting multiple product or target series over a future horizon, and predicting one target series using several related variables.
+
+![Time series forecasting project](https://github.com/fuadmaulana0812/MyPortfolio/blob/cac408f3bb3f7eb389aa7b77215cace2905f199b/Images/forecasting.png)
+
+### [Tweet Summarizer](https://github.com/fuadmaulana0812/Tweet-Summarizer)
+
+An automated X (Twitter) monitoring and summarization tool that collects recent posts from configured DeSci and life-sciences accounts, generates concise AI-powered summaries using OpenAI, and distributes a digest to X and Telegram every four hours. Built with Python, Selenium, LangChain, and Docker.
+
+![Tweet summarizer project]()
+
+### [Customer Analytics & Prediction Platform](https://github.com/fuadmaulana0812/Customer-Intelligence)
+
+An end-to-end Customer Analytics & Prediction Platform built with Python, Pandas, Scikit-learn, XGBoost, FastAPI, and Streamlit. Performs exploratory data analysis, predicts customer churn, segments customers using K-Means clustering, and delivers interactive dashboards with actionable business insights.
+
+![Customer analytics & prediction platform project]()
