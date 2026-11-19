@@ -15,7 +15,7 @@ An image classifier built with TensorFlow to recognize seven expressions: anger,
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/687c64c91eb81bef18d246a9e8135e2eccfd768c/Images/credit_loan.jpg"> **[Loan Default Prediction](https://github.com/fuadmaulana0812/Loan-Default-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/671176e8a05dada2aa63b9b9da81ea5ac37766fb/Images/credit_loan.jpg"> **[Loan Default Prediction](https://github.com/fuadmaulana0812/Loan-Default-Prediction)**
 
 Two modeling approaches explore loan repayment outcomes using borrower capability and repayment history. The first compares Decision Tree, Random Forest, Extra Gradient Boosting, K-Nearest Neighbors, and Support Vector Machine models; the second uses a TensorFlow model.
 
