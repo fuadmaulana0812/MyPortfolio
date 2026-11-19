@@ -26,6 +26,7 @@ A Streamlit and LangChain chatbot that uses uploaded PDF, Excel, and Word files 
 This work covers two forecasting setups: predicting multiple product or target series over a future horizon, and predicting one target series using several related variables.
 
 <img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/e2b122929516dc9a2a0b783cc5f58c8051055b91/Images/tweet_summarizer.png"> **[Tweet Summarizer](https://github.com/fuadmaulana0812/Tweet-Summarizer)**
+
 An automated X (Twitter) monitoring and summarization tool that collects recent posts from configured DeSci and life-sciences accounts, generates concise AI-powered summaries using OpenAI, and distributes a digest to X and Telegram every four hours. Built with Python, Selenium, LangChain, and Docker.
 
 <img align="left" width="250" height="150" src="https://github.com/fuadmaulana0812/MyPortfolio/blob/e2b122929516dc9a2a0b783cc5f58c8051055b91/Images/customer_churn.jpg"> **[Tweet Summarizer](https://github.com/fuadmaulana0812/Customer-Intelligence)**
